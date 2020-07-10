@@ -25,15 +25,15 @@ sleep 1
 
 
 echo "$cyan       ______________________________________"
-echo "$cyan      |                                   |"
-echo "$cyan      |       M                                   |"
-echo "$cyan      |        M                          |"
-echo "$cyan      |         •M                        |"
-echo "$cyan      |           M                       |"
-echo "$cyan      |         M                         |"
-echo "$cyan      |       M                                   |"
+echo "$cyan      |                                      |"
+echo "$cyan      |       M                              |"
+echo "$cyan      |        M                             |"
+echo "$cyan      |         •M                           |"
+echo "$cyan      |           M                          |"
+echo "$cyan      |         M                            |"
+echo "$cyan      |       M                              |"
 echo "$cyan      |           ______________             |"
-echo "$cyan      |                                           |"
+echo "$cyan      |                                      |"
 echo "$cyan      |______________________________________|"
 echo
 echo "$grenn =================================================================="
