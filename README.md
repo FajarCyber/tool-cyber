@@ -13,4 +13,4 @@ pip2 install requests
 pip2 install mechanize
 git clone https://github.com/TimeEror/tool-cyber
 cd tool-cyber
-ah tool-cyber.sh
+ah toolnew.sh
