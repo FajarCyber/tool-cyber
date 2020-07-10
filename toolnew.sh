@@ -93,14 +93,14 @@ fi
 if [ $bro = 5 ] || [ $bro = 5 ]
 then
 clear
-https://github.com/Fajar-24/FreeFire
+git clone https://github.com/Fajar-24/FreeFire
 cd FreeFire
 sh Fire.sh
 fi
 
 if [ $bro = 6 ] || [ $bro = 6 ]
 then
-https://github.com/Fajar-24/HACKWHATSAPP
+git clone https://github.com/Fajar-24/HACKWHATSAPP
 cd HACKWHATSAPP
 sh WhatSapp.sh
 fi
@@ -114,7 +114,7 @@ fi
 
 if [ $bro = 8 ] || [ $bro = 8 ]
 then
-https://github.com/Fajar-24/CYBER.eror
+git clone https://github.com/Fajar-24/CYBER.eror
 cd CYBER.eror
 sh cyber.sh
 fi
